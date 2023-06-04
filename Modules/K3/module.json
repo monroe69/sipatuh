@@ -1,0 +1,13 @@
+{
+    "name": "K3",
+    "alias": "k3",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\K3\\Providers\\K3ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
